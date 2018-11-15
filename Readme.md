@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/DXCharts-SL-Models/MainPage.xaml) (VB: [MainPage.xaml](./VB/DXCharts-SL-Models/MainPage.xaml))
+<!-- default file list end -->
 # How to assign different models for series
 
 
